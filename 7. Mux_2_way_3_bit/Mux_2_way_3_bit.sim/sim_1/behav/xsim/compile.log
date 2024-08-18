@@ -1,0 +1,6 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "E:/01. Engineering UOM/2. Second Semester/3. CS1050 - Computer Organization and Digital Design/2. Labs/Mux_2_way_3_bit/Mux_2_way_3_bit.srcs/sources_1/new/Mux_2_to_1.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Mux_2_to_1
+INFO: [VRFC 10-163] Analyzing VHDL file "E:/01. Engineering UOM/2. Second Semester/3. CS1050 - Computer Organization and Digital Design/2. Labs/Mux_2_way_3_bit/Mux_2_way_3_bit.srcs/sources_1/new/Mux_2_way_3_bit.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Mux_2_way_3_bit
+INFO: [VRFC 10-163] Analyzing VHDL file "E:/01. Engineering UOM/2. Second Semester/3. CS1050 - Computer Organization and Digital Design/2. Labs/Mux_2_way_3_bit/Mux_2_way_3_bit.srcs/sim_1/new/Mux_2_way_Sim.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Mux_2_way_Sim

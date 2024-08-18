@@ -1,0 +1,11 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../RegisterBank.srcs/sources_1/new/D_REG.vhd" \
+"../../../../RegisterBank.srcs/sources_1/imports/new/Decoder_2_to_4.vhd" \
+"../../../../RegisterBank.srcs/sources_1/imports/new/Decoder_3_to_8.vhd" \
+"../../../../RegisterBank.srcs/sources_1/new/Reg_D_FF.vhd" \
+"../../../../RegisterBank.srcs/sources_1/new/RegisterBank.vhd" \
+"../../../../RegisterBank.srcs/sim_1/new/RegisterBankSim.vhd" \
+
+# Do not sort compile order
+nosort

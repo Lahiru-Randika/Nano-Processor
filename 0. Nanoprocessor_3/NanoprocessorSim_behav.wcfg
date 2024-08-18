@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="NanoprocessorSim_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="NanoprocessorSim" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="87932648fs"></ZoomEndTime>
+      <Cursor1Time time="1000000000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <ValueColumnWidth column_width="58"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="10" />
+   <wvobject fp_name="/NanoprocessorSim/Clk" type="logic">
+      <obj_property name="ElementShortName">Clk</obj_property>
+      <obj_property name="ObjectShortName">Clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/NanoprocessorSim/UUT/Slow_Clk_0/Clk_out" type="logic">
+      <obj_property name="ElementShortName">Clk_out</obj_property>
+      <obj_property name="ObjectShortName">Clk_out</obj_property>
+   </wvobject>
+   <wvobject fp_name="/NanoprocessorSim/UUT/ProgramCounter_0/Clk" type="logic">
+      <obj_property name="ElementShortName">Clk</obj_property>
+      <obj_property name="ObjectShortName">Clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/NanoprocessorSim/UUT/RegisterBank_0/Clk" type="logic">
+      <obj_property name="ElementShortName">Clk</obj_property>
+      <obj_property name="ObjectShortName">Clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/NanoprocessorSim/Res" type="logic">
+      <obj_property name="ElementShortName">Res</obj_property>
+      <obj_property name="ObjectShortName">Res</obj_property>
+   </wvobject>
+   <wvobject fp_name="/NanoprocessorSim/overflow" type="logic">
+      <obj_property name="ElementShortName">overflow</obj_property>
+      <obj_property name="ObjectShortName">overflow</obj_property>
+   </wvobject>
+   <wvobject fp_name="/NanoprocessorSim/zero" type="logic">
+      <obj_property name="ElementShortName">zero</obj_property>
+      <obj_property name="ObjectShortName">zero</obj_property>
+   </wvobject>
+   <wvobject fp_name="/NanoprocessorSim/Reg7_out" type="array">
+      <obj_property name="ElementShortName">Reg7_out[3:0]</obj_property>
+      <obj_property name="ObjectShortName">Reg7_out[3:0]</obj_property>
+      <obj_property name="isExpanded"></obj_property>
+   </wvobject>
+   <wvobject fp_name="/NanoprocessorSim/Anode" type="array">
+      <obj_property name="ElementShortName">Anode[3:0]</obj_property>
+      <obj_property name="ObjectShortName">Anode[3:0]</obj_property>
+      <obj_property name="isExpanded"></obj_property>
+   </wvobject>
+   <wvobject fp_name="/NanoprocessorSim/S_7Seg" type="array">
+      <obj_property name="ElementShortName">S_7Seg[6:0]</obj_property>
+      <obj_property name="ObjectShortName">S_7Seg[6:0]</obj_property>
+      <obj_property name="isExpanded"></obj_property>
+   </wvobject>
+</wave_config>

@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "E:/01. Engineering UOM/2. Second Semester/3. CS1050 - Computer Organization and Digital Design/2. Labs/RegisterBank/RegisterBank.srcs/sources_1/new/D_REG.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity D_REG
+INFO: [VRFC 10-163] Analyzing VHDL file "E:/01. Engineering UOM/2. Second Semester/3. CS1050 - Computer Organization and Digital Design/2. Labs/RegisterBank/RegisterBank.srcs/sources_1/new/Reg_D_FF.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Reg_D_FF

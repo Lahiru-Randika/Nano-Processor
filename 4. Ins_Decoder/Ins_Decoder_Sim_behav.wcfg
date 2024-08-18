@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="Ins_Decoder_Sim_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="Ins_Decoder_Sim" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="397672163fs"></ZoomEndTime>
+      <Cursor1Time time="234724000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="112"></NameColumnWidth>
+      <ValueColumnWidth column_width="71"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="11" />
+   <wvobject fp_name="/Ins_Decoder_Sim/InsBus" type="array">
+      <obj_property name="ElementShortName">InsBus[11:0]</obj_property>
+      <obj_property name="ObjectShortName">InsBus[11:0]</obj_property>
+      <obj_property name="isExpanded"></obj_property>
+   </wvobject>
+   <wvobject fp_name="/Ins_Decoder_Sim/Reg_Jmp" type="array">
+      <obj_property name="ElementShortName">Reg_Jmp[3:0]</obj_property>
+      <obj_property name="ObjectShortName">Reg_Jmp[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Ins_Decoder_Sim/ImdVal" type="array">
+      <obj_property name="ElementShortName">ImdVal[3:0]</obj_property>
+      <obj_property name="ObjectShortName">ImdVal[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Ins_Decoder_Sim/Reg_En" type="array">
+      <obj_property name="ElementShortName">Reg_En[2:0]</obj_property>
+      <obj_property name="ObjectShortName">Reg_En[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Ins_Decoder_Sim/RegSel_A" type="array">
+      <obj_property name="ElementShortName">RegSel_A[2:0]</obj_property>
+      <obj_property name="ObjectShortName">RegSel_A[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Ins_Decoder_Sim/RegSel_B" type="array">
+      <obj_property name="ElementShortName">RegSel_B[2:0]</obj_property>
+      <obj_property name="ObjectShortName">RegSel_B[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Ins_Decoder_Sim/JmpAdd" type="array">
+      <obj_property name="ElementShortName">JmpAdd[2:0]</obj_property>
+      <obj_property name="ObjectShortName">JmpAdd[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Ins_Decoder_Sim/JmpFlag" type="logic">
+      <obj_property name="ElementShortName">JmpFlag</obj_property>
+      <obj_property name="ObjectShortName">JmpFlag</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Ins_Decoder_Sim/LD_Sel" type="logic">
+      <obj_property name="ElementShortName">LD_Sel</obj_property>
+      <obj_property name="ObjectShortName">LD_Sel</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Ins_Decoder_Sim/AddSub_Sel" type="logic">
+      <obj_property name="ElementShortName">AddSub_Sel</obj_property>
+      <obj_property name="ObjectShortName">AddSub_Sel</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Ins_Decoder_Sim/UUT/Decoder_2_to_4_0/Y" type="array">
+      <obj_property name="ElementShortName">Y[3:0]</obj_property>
+      <obj_property name="ObjectShortName">Y[3:0]</obj_property>
+   </wvobject>
+</wave_config>

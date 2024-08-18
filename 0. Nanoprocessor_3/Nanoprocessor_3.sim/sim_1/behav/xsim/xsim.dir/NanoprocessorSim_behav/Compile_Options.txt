@@ -1,0 +1,1 @@
+-wto "a6672b3529444ac199b34ba9f1c3668a" --incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "NanoprocessorSim_behav" "xil_defaultlib.NanoprocessorSim" -log "elaborate.log" 
